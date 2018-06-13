@@ -1,0 +1,17 @@
+.new-restaurant {
+  margin-bottom: 1em;
+}
+
+.restaurant {
+  margin: 1em;
+  min-width: 200px;
+  text-align: center;
+  border: 1px solid #eee;
+  padding: 1em;
+}
+
+.restaurants {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}

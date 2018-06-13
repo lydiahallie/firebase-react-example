@@ -1,0 +1,15 @@
+.current-user {
+  border: 1px solid #ccc;
+  display: flex;
+  justify-content: space-between;
+}
+
+.current-user-id {
+  padding: 1em;
+  flex: 1;
+}
+
+.current-user-img {
+  max-height: 150px;
+}
+
